@@ -4,7 +4,7 @@ Design a rudimentary signal processor for cochlear implants, for course BME252
 
 ### Phase 1: Preperation
 1. Read sound files as its input signals, find sampling rate, convert to mono
-2. Downsample audio 16 kHz \n
+2. Downsample audio 16 kHz <br/>
 3.Generate a signal using the cosine function that oscillates at 1 kHz with 
 the same time duration and array length
 
