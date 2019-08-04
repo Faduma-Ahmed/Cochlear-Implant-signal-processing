@@ -21,7 +21,7 @@ channel (Task 7)
 11. Add  & normalize all signals
 
 
-My teammates and I **varyied the parameters of our signal processor by**:
+My teammates and I **varied the parameters of our signal processor by**:
 - Comparing Equidistant, Overlapping and Asymmetric Channel lengths
 - Use of IIR vs FIR filters 
 - Changing cutoff of envelop detecting lowpass filter
