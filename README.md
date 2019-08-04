@@ -16,7 +16,7 @@ Design a rudimentary signal processor for cochlear implants, for course BME252
 
 ### Phase 3: Final product and Wrap up
 9. Generate Cosine signal oscillating  with the central frequency of each of the bandpass filters and length of the rectified          signal
-10. - For each channel, amplitude modulate the cosine signal of Task 9 using the rectified signal of that
+10. For each channel, amplitude modulate the cosine signal of Task 9 using the rectified signal of that
 channel (Task 7)
 11. Add  & normalize all signals
 
