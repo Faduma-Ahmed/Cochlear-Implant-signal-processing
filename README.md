@@ -14,3 +14,16 @@ Design a rudimentary signal processor for cochlear implants, for course BME252
 7. Rectify the output signals of all bandpass filters and detect the envelopes using lowpass filter (400 Hz)
 8. Plot the envelope of the lowest and highest frequency channels
 
+### Phase 3: Final product and Wrap up
+9. Generate Cosine signal oscillating  with the central frequency of each of the bandpass filters and length of the rectified          signal
+10. - For each channel, amplitude modulate the cosine signal of Task 9 using the rectified signal of that
+channel (Task 7)
+11. Add  & normalize all signals
+
+
+My teammates and I **varyied the parameters of our signal processor by**:
+- Comparing Equidistant, Overlapping and Asymmetric Channel lengths
+- Use of IIR vs FIR filters 
+- Changing cutoff of envelop detecting lowpass filter
+
+We also calculated **cross correation** in order to visualize the lag between the input and output at each specific sample
