@@ -1,6 +1,8 @@
 # Cochlear-Implant-signal-processing
 Design a rudimentary signal processor for cochlear implants, for course BME252 
 
+#### BLOCK DIAGRAM
+<img src="block_diagram.png" width="350">
 
 ### Phase 1: Preperation
 1. Read sound files as its input signals, find sampling rate, convert to mono
